@@ -26,7 +26,7 @@ Check out my linkedIn profile for a detailed overview of my education and work e
 
 ## 📈 GitHub Stats
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&hide=javascript,css,scss,html&theme=algolia)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akh9001&hide=javascript,css,scss,html&theme=algolia)
 
 [![Asmaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=akh9001&theme=cobalt)](https://github.com/akh9001/github-readme-stats)
 
