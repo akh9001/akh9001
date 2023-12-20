@@ -24,12 +24,6 @@ I am always dedicated to continuous learning. Currently, I'm focused on masterin
 [LinkedIn](https://www.linkedin.com/in/asmaa-khalidy) : 
 Check out my linkedIn profile for a detailed overview of my education and work experience.
 
-## 📈 GitHub Stats
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akh9001&theme=algolia)
-
-[![Asmaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=akh9001&theme=algolia)](https://github.com/akh9001/github-readme-stats)
-
 ## 📫 How to Reach Me
 
 Feel free to reach out if you want to discuss collaboration, job opportunities, or just to chat. You can contact me at [akhalidy9001@.com].
