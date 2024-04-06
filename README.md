@@ -3,8 +3,6 @@
 
 Hello there! I'm Asmaa KHALIDY, a passionate and highly motivated developer with a strong foundation in computer science. I've had an exceptional journey, studying at 1337 School, 42 Network, where I honed my skills in debugging, self-learning, and creative problem-solving. Currently enrolled in a MERN stack bootcamp, I am actively expanding my expertise in modern web development to stay on the cutting edge of industry trends.
 
-[![akhalidy's 42 stats](https://badge.mediaplus.ma/binary/akhalidy)](https://github.com/oakoudad/badge42)
-
 ## 💻 Tech Stack
 
 Frontend: React.js, JavaScript
